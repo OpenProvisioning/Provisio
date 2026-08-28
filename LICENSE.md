@@ -3,9 +3,8 @@ Version 1.0 (the "License")
 
 Copyright (c) 2026 Provisio
 
-==============================================================================
+______________________________________________________________________________
 1. DEFINITIONS
-==============================================================================
 
 "Covered Software" means the original source code, binaries, documentation, and 
 other materials released under this License, including any Modifications made 
@@ -40,9 +39,8 @@ refactoring, or debugging purposes of an end-user, provided that such use does
 not incorporate the Covered Software into persistent training datasets or result 
 in permanent updates to underlying model weights.
 
-==============================================================================
+______________________________________________________________________________
 2. GRANT OF RIGHTS
-==============================================================================
 
 Subject to the terms and conditions of this License, the Licensor and each 
 Contributor hereby grant to You a worldwide, royalty-free, non-exclusive 
@@ -54,9 +52,8 @@ copyright license to:
   c) Distribute and/or Network Deploy the Covered Software and Modifications, 
      subject strictly to Section 3.
 
-==============================================================================
+______________________________________________________________________________
 3. RECIPROCAL OBLIGATIONS & ARCHITECTURAL SCOPE
-==============================================================================
 
 3.1. Copyleft Requirement:
 If You distribute or perform a Network Deployment of any Modification, You MUST 
@@ -74,9 +71,8 @@ and license proprietary software that communicates with or consumes the Covered
 Software via standard APIs or network interfaces without being required to 
 license such Independent Works under this License.
 
-==============================================================================
+______________________________________________________________________________
 4. ARTIFICIAL INTELLIGENCE & MACHINE LEARNING RESTRICTION
-==============================================================================
 
 4.1. Express Prohibition:
 You shall not use, cause to be used, or authorize third parties to use the Covered 
@@ -93,9 +89,8 @@ unauthorized exploitation of copyright. The Licensor reserves all statutory,
 equitable, and contractual remedies, including injunctive relief and claims for 
 damages resulting from unauthorized model training.
 
-==============================================================================
+______________________________________________________________________________
 5. PATENT GRANT & DEFENSIVE RETALIATION
-==============================================================================
 
 5.1. Patent License:
 Each Contributor grants You a worldwide, royalty-free, non-exclusive patent 
@@ -110,18 +105,16 @@ Software or any contribution infringes any patent, all patent and copyright
 licenses granted to You under this License shall terminate automatically as of 
 the date such litigation is filed.
 
-==============================================================================
+______________________________________________________________________________
 6. TERMINATION
-==============================================================================
 
 Any failure to comply with the terms of this License will terminate Your rights 
 immediately. Upon termination, You must cease all use, distribution, and Network 
 Deployment of the Covered Software. Reinstatement may occur if the breach is cured 
 within 30 days of discovery, at the Licensor's sole discretion.
 
-==============================================================================
+______________________________________________________________________________
 7. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
-==============================================================================
 
 THE COVERED SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
 OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
