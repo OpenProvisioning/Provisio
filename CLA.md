@@ -35,7 +35,7 @@ You represent that:
      of that employer.
   c) The Contribution does not violate any third-party copyright, patent, or trade secret.
 
-==============================================================================
+------------------------------------------------------------------------------
 By clicking "I Agree", submitting a pull request, or signing below, you agree 
 to the terms of this Agreement.
-==============================================================================
+------------------------------------------------------------------------------
